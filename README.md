@@ -17,7 +17,7 @@ This is a simulated flight booking API. It showcases two methods of searching fo
 - Run `node app.js`
 
 
-# References
+## References
 
 - Mostly documentation from JavaScript
 - Answers from StackOverflow
