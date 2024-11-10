@@ -138,7 +138,6 @@ module.exports = {
         }
 
         console.log(foundBooking);
-        return;
     },
 
     getBookingsByFlightId(flightId) {
